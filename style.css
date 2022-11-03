@@ -1,0 +1,25 @@
+.logOutColor {
+    color: red;
+}
+
+.btnPostColor {
+    background: green;
+    border: green;
+}
+
+.card-m {
+    margin: 25px 0;
+}
+
+.d-flex {
+    justify-content: space-between;
+}
+
+.card-date {
+    font-size: 0.8rem;
+}
+
+
+.greyIcon {
+    color: grey;
+}
